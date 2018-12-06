@@ -10,6 +10,6 @@ namespace App\Http\Controllers;
 class IndexController extends Controller
 {
     public function index(){
-        echo "zhangjing";
+        echo "This is github-doker-aliyun";
     }
 }
